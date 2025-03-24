@@ -57,9 +57,9 @@ Factor generation and testing for systematic trading strategy.
     - Verify there are 4812408 rows 
     - Download the results as a .csv file
     - Save the file in `data` folder as `ndt.csv`
-3. Sage factors 
+3. Returns and Market cap 
     - Copy paste code from this [file](sql/fetch_returns_market_cap.sql) and run
-    - Verify there are 124.1K rows 
+    - Verify there are 3868011 rows 
     - Download the results as a .csv file
     - Save the file in `data` folder as `returns_market_cap.csv.csv`
 
