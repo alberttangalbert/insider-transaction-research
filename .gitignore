@@ -4,4 +4,3 @@ venv/
 *.pyc
 *.csv
 __pycache__/
-test.py
