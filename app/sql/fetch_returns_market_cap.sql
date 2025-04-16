@@ -1,0 +1,3 @@
+SELECT *
+FROM BIOTECH_PROJECT.INTERNS.INSIDER_TRADING_RETURNS as itr
+ORDER BY itr.company_id, itr.month_end

@@ -1,0 +1,8 @@
+.DS_store
+venv/
+.env
+*.pyc
+__pycache__/
+data/
+entity_analysis/
+*.csv
